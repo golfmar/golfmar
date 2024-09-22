@@ -8,7 +8,8 @@
 
 ## Skills and tools
 ![Vue](https://vuejs.org/images/logo.png)
-![Nuxt](https://nuxtjs.org/images/logo.png)
+![Nuxt](https://nuxtjs.org/logo.svg)
+
 ![WordPress](https://s.w.org/style/images/about/WordPress-logotype-wmark.png)
 
 
