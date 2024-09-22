@@ -4,7 +4,7 @@
 - How to reach me -- yushinbox@gmail.com
 - I speak German (B2), Russian, English, 
 - I have a higher education in the specialty "System Engineer"
-🌎 Check my portfolio
+- 🌎 Check my portfolio
 <!---
 golfmar/golfmar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
