@@ -3,6 +3,7 @@
     width: 40px;
     height: 40px;
     object-fit: cover;
+    margin: 0 40px;
   }
 </style>
 
