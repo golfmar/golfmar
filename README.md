@@ -36,5 +36,7 @@
 <span>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/WooCommerce_logo.svg/250px-WooCommerce_logo.svg.png" alt="WooCommerce" width="30" />
 </span>
-
+<span>
+<img src="https://raw.githubusercontent.com/github/explore/9d47da057258d668c7dba9e9bb9cfcd45e2226e9/topics/git/git.png?size=48" alt="WooCommerce" width="30" />
+</span>
 
