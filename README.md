@@ -20,15 +20,3 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/WooCommerce_logo.svg/250px-WooCommerce_logo.svg.png" alt="WooCommerce" width="30" />
 </span
 
-
-
-
-
-
-[![Backers](https://opencollective.com/bootstrap/backers.svg?width=890)](https://opencollective.com/bootstrap#backers)
-
-
-## Copyright and license
-
-Code and documentation copyright 2011–2024 the [Bootstrap Authors](https://github.com/twbs/bootstrap/graphs/contributors). Code released under the [MIT License](https://github.com/twbs/bootstrap/blob/main/LICENSE). Docs released under [Creative Commons](https://creativecommons.org/licenses/by/3.0/).
---->
