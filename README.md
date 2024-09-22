@@ -18,5 +18,8 @@
 </span>
 <span>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/WooCommerce_logo.svg/250px-WooCommerce_logo.svg.png" alt="WooCommerce" width="30" />
-</span
+</span>
+  <span>
+<img src="https://pinia.vuejs.org/logo.svg" alt="pinia" width="30" />
+</span>
 
