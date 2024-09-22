@@ -6,7 +6,7 @@
 - I have a higher education in the specialty "System Engineer"
 - 🌎 Check my portfolio
 
-<h3 align="center">Stack</h3>
+## Stack
 <!---
 golfmar/golfmar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
