@@ -16,7 +16,9 @@
 <span>
 <img src="https://github.com/WordPress.png?size=40" alt="WordPress" width="30" />
 </span>
-
+<span>
+<img src="https://en.wikipedia.org/wiki/File:WooCommerce_logo.svg" alt="WordPress" width="30" />
+</span
 
 
 <!---
