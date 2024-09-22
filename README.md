@@ -2,7 +2,7 @@
 - I am a frontend developer with WORDPRESS skills
 - I currently live in NRW , Germany
 - How to reach me -- yushinbox@gmail.com
-- I speak English, German (In 2), Russian
+- I speak German (B2), Russian, English, 
 - I have a higher education in the specialty "System Engineer"
 
 <!---
