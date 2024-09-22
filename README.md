@@ -11,6 +11,9 @@
 ![Nuxt](https://nuxtjs.org/_nuxt/img/nuxt.svg)
 ![WordPress](https://s.w.org/style/images/about/WordPress-logotype-wmark.png)
 
+<img src="https://vuejs.org/images/logo.png" alt="Vue" width="100" />
+<img src="https://nuxtjs.org/_nuxt/img/nuxt.svg" alt="Nuxt" width="100" />
+<img src="https://s.w.org/style/images/about/WordPress-logotype-wmark.png" alt="WordPress" width="100" />
 
 
 
