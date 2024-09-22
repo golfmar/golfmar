@@ -1,10 +1,9 @@
 - 👋 Hi, I’m Victor
-- 👀 I’m interested in fr
--  I currently live in Germany
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- I am a frontend developer with WORDPRESS skills
+- I currently live in NRW , Germany
+- How to reach me -- yushinbox@gmail.com
+- I speak English, German (In 2), Russian
+- I have a higher education in the specialty "System Engineer"
 
 <!---
 golfmar/golfmar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
