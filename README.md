@@ -1,12 +1,15 @@
 - 👋 Hi, I’m Victor
-- I am a frontend developer with WORDPRESS skills
+- I am a frontend developer with Wordpress skills
 - I currently live in NRW , Germany
 - How to reach me -- yushinbox@gmail.com
 - I speak German (B2), Russian, English, 
 - I have a higher education in the specialty "System Engineer"
 - 🌎 Check my portfolio
 
-## Stack
+## Skills and tools
+![Vue](https://vuejs.org/images/logo.png)
+![Nuxt](https://nuxtjs.org/logos/nuxt-icon.png)
+![WordPress](https://s.w.org/style/images/about/WordPress-logotype-wmark.png)
 
 
 
