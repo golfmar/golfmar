@@ -7,7 +7,7 @@
 - 🌎 Check my portfolio
 
 ## Stack
-https://github.com/vuejs.png?size=40
+[![Build Status](https://img.shields.io/github/actions/workflow/status/twbs/bootstrap/js.yml?branch=main&label=JS%20Tests&logo=github)]
 
 
 
