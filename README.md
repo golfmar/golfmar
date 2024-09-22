@@ -17,7 +17,7 @@
 <img src="https://github.com/WordPress.png?size=40" alt="WordPress" width="30" />
 </span>
 <span>
-<img src="[https://en.wikipedia.org/wiki/File:WooCommerce_logo.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/WooCommerce_logo.svg/250px-WooCommerce_logo.svg.png)" alt="WooCommerce" width="30" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/WooCommerce_logo.svg/250px-WooCommerce_logo.svg.png" alt="WooCommerce" width="30" />
 </span
 
 
