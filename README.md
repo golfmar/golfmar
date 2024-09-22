@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
     <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap logo" width="200" height="165">
   </a>
 </p>
---->
+
 <h3 align="center">Bootstrap</h3>
 
 <p align="center">
@@ -262,3 +262,4 @@ Thank you to all our backers! 🙏 [[Become a backer](https://opencollective.com
 ## Copyright and license
 
 Code and documentation copyright 2011–2024 the [Bootstrap Authors](https://github.com/twbs/bootstrap/graphs/contributors). Code released under the [MIT License](https://github.com/twbs/bootstrap/blob/main/LICENSE). Docs released under [Creative Commons](https://creativecommons.org/licenses/by/3.0/).
+--->
