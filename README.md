@@ -7,7 +7,8 @@
 - 🌎 Check my portfolio
 
 ## Skills and tools
-<img src="https://vuejs.org/images/logo.png" alt="Vue" width="30" />
+<span><img src="https://vuejs.org/images/logo.png" alt="Vue" width="30" /></span>
+
 <img src="https://github.com/nuxt.png?size=40" alt="Nuxt" width="30" />
 <img src="https://github.com/WordPress.png?size=40" alt="WordPress" width="30" />
 
