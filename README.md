@@ -15,15 +15,15 @@ I created this account specifically for the portfolio. They mostly reflect my sk
 
 
 ## Connect with me:
-<a href="https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit" target="_blank" style="text-decoration: none;">
+<a href="https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit" target="_blank" >
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="victor yushin" height="30" width="40" />
-</a>
-<a href="https://www.facebook.com/viktor.yushin.77/" target="_blank" style="text-decoration: none;">
+</a>&nbsp;
+<a href="https://www.facebook.com/viktor.yushin.77/" target="_blank" >
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="victor yushin" height="30" width="40" />
-</a>
-<a href="https://www.instagram.com/yushindance/" target="_blank" style="text-decoration: none;">
+</a>&nbsp;
+<a href="https://www.instagram.com/yushindance/" target="_blank" >
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="victor yushin" height="30" width="40" />
-</a>
+</a>&nbsp;
 </p>
 
 ## Languages and Tools:
