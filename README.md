@@ -6,7 +6,7 @@
 - I have a higher education in the specialty "System Engineer"
 - 🌎 Check my portfolio https://porto-eta-beige.vercel.app/
 ## About this account
-- I created this account specifically for the portfolio. They mostly reflect my skills and preferences. I do frontend for the most part. These are all kinds of layout tasks + js development.  At a certain point, I gave up using third-party solutions and created all the js code myself. Websites have become simple and fast. Among the js frameworks, I prefer vue.js/nuxt.js.  + Firebase Firestore for the backend part.  I often had to integrate the layout with Wordpress/WooCommerce. There is also sufficient experience in this area. Sometimes there was a layout for Bitrix.
+I created this account specifically for the portfolio. They mostly reflect my skills and preferences. I do frontend for the most part. These are all kinds of layout tasks + js development.  At a certain point, I gave up using third-party solutions and created all the js code myself. Websites have become simple and fast. Among the js frameworks, I prefer vue.js/nuxt.js.  + Firebase Firestore for the backend part.  I often had to integrate the layout with Wordpress/WooCommerce. There is also sufficient experience in this area. Sometimes there was a layout for Bitrix.
 ## Connect with me:
 
 
