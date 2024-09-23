@@ -30,7 +30,8 @@
 <span>
 
 
-[!(https://github.com/nuxt.png?size=40)](https://nuxtjs.org)
+
+[![]("https://github.com/nuxt.png?size=40")]("https://nuxtjs.org")
 
 
 <span>
