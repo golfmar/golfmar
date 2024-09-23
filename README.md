@@ -21,10 +21,10 @@ I created this account specifically for the portfolio. They mostly reflect my sk
 <div id="badges">
   <a href="https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+  </a>.
   <a href="https://www.facebook.com/viktor.yushin.77/">
      <img src="https://img.shields.io/badge/Facebook-orange" alt="Youtube Badge"/>
-  </a>
+  </a>.
   <a href="https://www.instagram.com/yushindance/">
     <img src="https://img.shields.io/badge/Insatagram-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
