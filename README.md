@@ -19,25 +19,18 @@ I created this account specifically for the portfolio. They mostly reflect my sk
   <a href="https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+ 
+ <a href="https://www.facebook.com/viktor.yushin.77/">
+    <img src="https://img.shields.io/badge/Facebook-orange" alt="Youtube Badge"/>
   </a>
-  <a href="your-twitter-URL">
+  
+
+  
+  <a href="https://www.instagram.com/yushindance/">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
 
-<a href="" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
-</a>
-
-
-<a href="https://www.facebook.com/viktor.yushin.77/" target="_blank" >
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="victor yushin" height="30" width="40" />
-</a>&nbsp;
-<a href="https://www.instagram.com/yushindance/" target="_blank" >
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="victor yushin" height="30" width="40" />
-</a>
 
 
 ## Languages and Tools:
