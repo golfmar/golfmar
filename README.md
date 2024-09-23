@@ -16,7 +16,7 @@
 </p>
 
 ## Languages and Tools:
-<p style="color: red!important;">Этот текст будет красным.</p>
+<p color="red">Этот текст будет красным.</p>
 
 <p align="left" > 
  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
