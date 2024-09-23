@@ -16,9 +16,9 @@
 </p>
 
 ## Languages and Tools:
-<p color="red">Этот текст будет красным.</p>
 
-```<p align="left" > 
+
+<p align="left" > 
  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
   </a> 
