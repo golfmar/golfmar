@@ -15,8 +15,9 @@ I created this account specifically for the portfolio. They mostly reflect my sk
 
 
 ## Connect with me:
-
-
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
+![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 <div id="badges">
   <a href="https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
