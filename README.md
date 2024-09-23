@@ -54,7 +54,7 @@
 
 
 <span>
-<img class="icon" src="https://developer.mozilla.org/en-US/docs/Web/JavaScript" alt="JavaScript" width="40" height="40" />
+<img class="icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" />
 </span>
 
 
