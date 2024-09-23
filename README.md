@@ -16,7 +16,7 @@
 </p>
 
 ## Languages and Tools:
-
+<p style="color:blue; font-size: 20px;">Этот проект использует <strong>Nuxt</strong> и <strong>Vue</strong>.</p>
 
 <p align="left" > 
  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
