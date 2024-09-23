@@ -1,9 +1,3 @@
-[data-a11y-link-underlines=true] .markdown-body a, [data-a11y-link-underlines=true] .markdown-body a:hover, [data-a11y-link-underlines=true] .commit-desc a, [data-a11y-link-underlines=true] .commit-desc a:hover, [data-a11y-link-underlines=true] .Link--inTextBlock, [data-a11y-link-underlines=true] .Link--inTextBlock:hover, [data-a11y-link-underlines=true] .Links--underline a, [data-a11y-link-underlines=true] .Links--underline a:hover, [data-a11y-link-underlines=true] .repos-list-description a, [data-a11y-link-underlines=true] .extended-commit-description-container a {
-  /* text-decoration: underline; */
-  text-underline-offset: .2rem;
-}
-
-
 - 👋 Hi, I’m Victor
 - I am a frontend developer with Wordpress skills
 - I currently live in NRW , Germany
@@ -91,7 +85,7 @@
   </a> 
  
   <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="80" height="80"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="80" height="40"/>
   </a> 
   
 </p>
