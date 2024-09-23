@@ -111,6 +111,9 @@ I created this account specifically for the portfolio. They mostly reflect my sk
 <img class="icon" src="https://vitejs.dev/logo.svg" alt="vite" width="40" height="40" />
 </span>
 
+<span>
+<img class="icon" src="https://cms.pixso.net/images/px-logo.png" alt="pixso" width="40" height="40" />
+</span>
 
 
 
