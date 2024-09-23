@@ -23,19 +23,28 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
 </a> 
  
+
 <span>
 <img class="icon" src="https://github.com/nuxt.png?size=40" alt="Nuxt" width="40" height="40" />
 </span>
 <span>
+
+
+[![Nuxt](https://nuxtjs.org/_nuxt/img/nuxt.svg)](https://nuxtjs.org)
+
+
 <span>
 <img class="icon" src="https://pinia.vuejs.org/logo.svg" alt="pinia" width="40" height="40" />
 </span>
 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
+
+
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-  </a>
- 
-   <span>
+</a>
+
+
+<span>
 <img class="icon" src="https://github.com/WordPress.png?size=40" alt="WordPress" width="40" height="40" />
 </span>
 <span>
@@ -91,15 +100,3 @@
   </a> 
   
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
