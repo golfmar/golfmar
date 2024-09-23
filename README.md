@@ -15,7 +15,14 @@ I created this account specifically for the portfolio. They mostly reflect my sk
 
 
 ## Connect with me:
-
+<div style="padding: 25px 0;">
+    <a href="https://twitter.com/Timbakerx" style="padding: 24px;">
+    <img src="https://github.com/tbakerx/tbakerx/blob/main/assets/twitter-green.png" alt="Follow me on twitter"  width="24" height="24">
+    </a>
+     <a href="https://www.linkedin.com/in/timbakerx/" style="padding: 8px; width: 24px; height: 24px;">
+        <img src="https://github.com/tbakerx/tbakerx/blob/main/assets/linkedin-green.png" alt="Connect on Linkedin" width="24" height="24">
+    </a>
+</div>
 
 
 <div id="badges">
