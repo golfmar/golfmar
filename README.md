@@ -45,6 +45,5 @@
 <span>
 <img class="icon" src="https://raw.githubusercontent.com/github/explore/9d47da057258d668c7dba9e9bb9cfcd45e2226e9/topics/git/git.png?size=48" alt="WooCommerce" width="40" height="40" />
 </span>
-              - name: Update Dev Container collection readme
-                uses: devcontainers-community/update-collection-readme@v1.1.0
+
             
