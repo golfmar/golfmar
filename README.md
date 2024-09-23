@@ -20,9 +20,7 @@
  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
   </a> 
-  <span>
-<img class="icon" src="https://vuejs.org/images/logo.png" alt="Vue" width="40" height="40" />
-</span>
+ 
 <span>
 <img class="icon" src="https://github.com/nuxt.png?size=40" alt="Nuxt" width="40" height="40" />
 </span>
