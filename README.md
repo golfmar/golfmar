@@ -14,9 +14,11 @@
 I created this account specifically for the portfolio. They mostly reflect my skills and preferences. I do frontend for the most part. These are all kinds of layout tasks + js development.  At a certain point, I gave up using third-party solutions and created all the js code myself. Websites have become simple and fast. Among the js frameworks, I prefer vue.js/nuxt.js.  + Firebase Firestore for the backend part.  I often had to integrate the layout with Wordpress/WooCommerce. There is also sufficient experience in this area. Sometimes there was a layout for Bitrix.
 
 
-## Connect with me:
 
-[![(https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]](https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit)
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://porto-eta-beige.vercel.app/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit)
+[![facebook](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.facebook.com/viktor.yushin.77)
 
 <div id="badges">
   <a href="https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit">
@@ -30,7 +32,7 @@ I created this account specifically for the portfolio. They mostly reflect my sk
   </a>
 </div>
 
-## Languages and Tools:
+## 🛠 Skills
 
 
 <p align="left" > 
