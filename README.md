@@ -92,16 +92,6 @@
 
 
 
-<span>
-<img class="icon" src="https://media.licdn.com/dms/image/v2/D4E12AQFfe1nZbaWdMw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1698604163003?e=2147483647&v=beta&t=zrcrB8lfoVmZo0LcSLgut3A_4PwE6YFe9EK3iy17L2Y" alt="pinia"  width="60" height="40"/>
-</span>
-
-
-
-
-<span>
-<img class="icon" src="https://raw.githubusercontent.com/github/explore/9d47da057258d668c7dba9e9bb9cfcd45e2226e9/topics/git/git.png?size=48" alt="WooCommerce" width="40" height="40" />
-</span>
 
 
 
