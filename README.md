@@ -15,9 +15,12 @@ I created this account specifically for the portfolio. They mostly reflect my sk
 
 
 ## Connect with me:
-[](https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit)
 
-!(https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)(https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit)
+
+<a href="https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
+</a>
+
 
 <a href="https://www.facebook.com/viktor.yushin.77/" target="_blank" >
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="victor yushin" height="30" width="40" />
