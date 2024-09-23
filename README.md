@@ -87,7 +87,7 @@
   </a> 
  
   <a href="https://webpack.js.org" target="_blank" rel="noreferrer" > 
-    <img src="https://webpack.js.org/site-logo.c0e60df418e04f58.svg" alt="webpack" width="40" height="40"/>
+    <img src="https://webpack.js.org/site-logo.c0e60df418e04f58.svg" alt="webpack" width="140" height="40"/>
   </a> 
   
 </p>
