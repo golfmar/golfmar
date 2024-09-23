@@ -31,11 +31,12 @@
 
 
 
-[![]("https://github.com/nuxt.png?size=40")]("https://nuxtjs.org")
-
-
 <span>
 <img class="icon" src="https://pinia.vuejs.org/logo.svg" alt="pinia" width="40" height="40" />
+</span>
+
+<span>
+<img class="icon" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
 </span>
 
 
