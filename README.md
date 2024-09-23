@@ -8,7 +8,7 @@
 ## About this account
 - I created this account specifically for the portfolio. They mostly reflect my skills and preferences. I do frontend for the most part. These are all kinds of layout tasks + js development.  At a certain point, I gave up using third-party solutions and created all the js code myself. Websites have become simple and fast. Among the js frameworks, I prefer vue.js/nuxt.js.  + Firebase Firestore for the backend part.  I often had to integrate the layout with Wordpress/WooCommerce. There is also sufficient experience in this area. Sometimes there was a layout for Bitrix.
 ## Connect with me:
-<p style="color: red;">Этот текст будет красным.</p>
+
 
 <a href="https://linkedin.com/in/victor yushin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="victor yushin" height="30" width="40" /></a>
 <a href="https://fb.com/victor yushin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="victor yushin" height="30" width="40" /></a>
@@ -16,7 +16,7 @@
 </p>
 
 ## Languages and Tools:
-<p align="left" style="color:blue; font-size: 20px;"> style</p>
+<p style="color: red!important;">Этот текст будет красным.</p>
 
 <p align="left" > 
  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
