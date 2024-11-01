@@ -6,7 +6,7 @@
 - I have a higher education in the specialty "System Engineer"
 
 <p align="left" > 
-🌎 Check my portfolio https://porto-eta-beige.vercel.app/
+🌎 Check my portfolio https://yushinbox.rf.gd/porto
 </p>
 
 
