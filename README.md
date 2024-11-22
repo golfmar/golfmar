@@ -29,10 +29,10 @@ I created this account specifically for the portfolio. They mostly reflect my sk
 
 
 [![react](react.svg)](https://react.dev)
-[![react](react.svg)](https://react.dev)
+
 [![vercel](vercel.svg)](https://vercel.com)
 EXPRESS
-
+[![mongo](mongoDB.svg)](https://www.mongodb.com)
 
 
 <span>
