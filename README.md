@@ -28,9 +28,9 @@ I created this account specifically for the portfolio. They mostly reflect my sk
 <p align="left" > 
 
 
-[(react.svg)](https://react.dev)
+[![react](react.svg)](https://react.dev)
 
-[(vercel.svg)](https://vercel.com)
+[![vercel](vercel.svg)](https://vercel.com)
 
 
 
