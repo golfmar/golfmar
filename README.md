@@ -26,16 +26,10 @@ I created this account specifically for the portfolio. They mostly reflect my sk
 
 
 <p align="left" > 
-
-
 [![react](react.svg)](https://react.dev)
-
-[![vercel]'Vercel'](https://vercel.com)
-
-EXPRESS
-
+[Vercel](https://vercel.com)
+[EXPRESS](https://expressjs.com/)
 [![mongo](mongoDB.svg)](https://www.mongodb.com)
-
 [![mui](mui.svg)](https://mui.com)
 
 <span>
