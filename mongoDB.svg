@@ -14,7 +14,7 @@
 
     main {
       color: #333;
-      max-width: 800px;
+      max-width: 100px;
       font-family: Arial, sans-serif;
       font-size: 14px;
       font-weight: 300;
