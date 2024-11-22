@@ -29,7 +29,7 @@ I created this account specifically for the portfolio. They mostly reflect my sk
 
 
 [![Alt Text](react.svg)](https://react.dev)
-
+[![Alt Text](vercel.svg)](https://vercel.com)
 
 
 
