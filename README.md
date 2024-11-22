@@ -26,8 +26,9 @@ I created this account specifically for the portfolio. They mostly reflect my sk
 
 
 <p align="left" > 
-
-![https://react.dev](react.svg)
+<span>
+[![Custom Icon](icon.svg)]([https://example.com](https://react.dev))
+</span>
 
 
 
