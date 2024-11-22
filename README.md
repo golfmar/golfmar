@@ -31,9 +31,12 @@ I created this account specifically for the portfolio. They mostly reflect my sk
 [![react](react.svg)](https://react.dev)
 
 [![vercel](vercel.svg)](https://vercel.com)
+
 EXPRESS
+
 [![mongo](mongoDB.svg)](https://www.mongodb.com)
 
+[![mongo](mui.svg)](https://mui.com)
 
 <span>
 <img class="icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40" />
