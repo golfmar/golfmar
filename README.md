@@ -27,6 +27,13 @@ I created this account specifically for the portfolio. They mostly reflect my sk
 
 <p align="left" > 
 
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+  <rect width="100" height="100" fill="red"/>
+  <circle cx="50" cy="50" r="40" stroke="black" stroke-width="3" fill="yellow"/>
+</svg>
+
+
 <span>
 <img class="icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40" />
 </span>
