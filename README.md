@@ -30,7 +30,7 @@ I created this account specifically for the portfolio. They mostly reflect my sk
 [![](react.svg)](https://react.dev) 
 [![](vercel.svg)](https://vercel.com) 
 [EXPRESS](https://expressjs.com) 
-[![](mongoDB.svg)](https://vercel.com) 
+[![](vercel.svg)](https://vercel.com) 
 [![](mongoDB.svg)](https://www.mongodb.com) 
 [![](mui.svg)](https://mui.com)
 
