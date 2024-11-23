@@ -60,7 +60,6 @@ I created this account specifically for the portfolio. They mostly reflect my sk
 
 [![](node.svg)](https://nodejs.org/)
 [![](express.svg)](https://expressjs.com) 
-
 <span>
 <img class="icon" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
 </span>
