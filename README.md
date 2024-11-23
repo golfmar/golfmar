@@ -26,12 +26,7 @@ I created this account specifically for the portfolio. They mostly reflect my sk
 
 
 <p align="left" > 
-  
-
-
-[![](vercel.svg)](https://vercel.com) 
-[![](mongoDB.svg)](https://www.mongodb.com) 
-[![](mui.svg)](https://mui.com)
+ 
 ### Frontend
 [![](react.svg)](https://react.dev) 
 <span>
@@ -63,62 +58,50 @@ I created this account specifically for the portfolio. They mostly reflect my sk
 <span>
 <img class="icon" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
 </span>
-
-
-
+[![](vercel.svg)](https://vercel.com) 
+[![](mongoDB.svg)](https://www.mongodb.com) 
 <span>
 <img class="icon" src="https://github.com/WordPress.png?size=40" alt="WordPress" width="40" height="40" />
 </span>
-
-
-
 <span>
 <img class="icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/WooCommerce_logo.svg/250px-WooCommerce_logo.svg.png" alt="WooCommerce" width="40" height="40" />
 </span>
 
-
-
-
-
-
+### Design
+[![](mui.svg)](https://mui.com)
 <span>
 <img class="icon" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
 </span>
-
-
-<span>
-<img class="icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40" />
-</span>
-
-
-<span>
-<img class="icon" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-</span>
-
-<span>
-<img class="icon" src="https://res-s.cloudinary.com/prod/image/upload/d_console:cld_new_default_cloud_logo_regular_padding.svg/w_32,h_32,c_fill,dpr_2.0/console/customer-logos/2da273ec717652775cfe9f6f9020fbb9" alt="cloudinary" width="40" height="40" />
-</span>
-
 <span>
 <img class="icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40" />
 </span>
-
-
-
-<span>
-<img class="icon" src="https://vitejs.dev/logo.svg" alt="vite" width="40" height="40" />
-</span>
-
 <span>
 <img class="icon" src="https://cms.pixso.net/images/px-logo.png" alt="pixso" width="120" height="40" />
 </span>
 
 
-
-
+### Project assembly systems
+<span>
+<img class="icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40" />
+</span>
+<span>
+<img class="icon" src="https://vitejs.dev/logo.svg" alt="vite" width="40" height="40" />
+</span>
 <span>
 <img class="icon" src="https://webpack.js.org/site-logo.c0e60df418e04f58.svg" alt="webpack" width="140" height="40" />
 </span>
+
+### Various
+<span>
+<img class="icon" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
+</span>
+<span>
+<img class="icon" src="https://res-s.cloudinary.com/prod/image/upload/d_console:cld_new_default_cloud_logo_regular_padding.svg/w_32,h_32,c_fill,dpr_2.0/console/customer-logos/2da273ec717652775cfe9f6f9020fbb9" alt="cloudinary" width="40" height="40" />
+</span>
+
+
+
+
 
 
 
