@@ -27,31 +27,39 @@ I created this account specifically for the portfolio. They mostly reflect my sk
 
 <p align="left" > 
   
-[![](react.svg)](https://react.dev) 
-[![](vercel.svg)](https://vercel.com) 
-[EXPRESS](https://expressjs.com) 
+
+
 [![](vercel.svg)](https://vercel.com) 
 [![](mongoDB.svg)](https://www.mongodb.com) 
 [![](mui.svg)](https://mui.com)
-
-
-
+### Frontend
+[![](react.svg)](https://react.dev) 
 <span>
 <img class="icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40" />
 </span>
-
-
-
 <span>
 <img class="icon" src="https://github.com/nuxt.png?size=40" alt="Nuxt" width="40" height="40" />
 </span>
 <span>
-
-
-
 <span>
 <img class="icon" src="https://pinia.vuejs.org/logo.svg" alt="pinia" width="40" height="40" />
 </span>
+<span>
+<img class="icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" />
+</span>
+<span>
+<img class="icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
+</span>
+<span>
+<img class="icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
+</span>
+<span>
+<img class="icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" />
+</span>
+### Backend
+[EXPRESS](https://expressjs.com) 
+
+
 
 <span>
 <img class="icon" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
@@ -70,25 +78,8 @@ I created this account specifically for the portfolio. They mostly reflect my sk
 </span>
 
 
-<span>
-<img class="icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" />
-</span>
 
 
-<span>
-<img class="icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
-</span>
-
-
-
-<span>
-<img class="icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
-</span>
-
-
-<span>
-<img class="icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" />
-</span>
 
 
 <span>
