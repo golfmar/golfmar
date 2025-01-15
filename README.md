@@ -69,7 +69,7 @@ I created this account specifically for the portfolio. They mostly reflect my sk
 <span>
 <img class="icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/WooCommerce_logo.svg/250px-WooCommerce_logo.svg.png" alt="WooCommerce" width="40" height="40" />
 </span>
-
+[![](socket.svg)](https://socket.io)
 ### Design
 [![](mui.svg)](https://mui.com)
 <span>
