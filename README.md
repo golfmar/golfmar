@@ -11,7 +11,8 @@
 
 
 ## About this account
-I created this account specifically for the portfolio. They mostly reflect my skills and preferences. I do frontend for the most part. These are all kinds of layout tasks + js development.  At a certain point, I gave up using third-party solutions and created all the js code myself. Websites have become simple and fast. Among the js frameworks, I prefer vue.js/nuxt.js.  + Firebase Firestore for the backend part.  I often had to integrate the layout with Wordpress/WooCommerce. There is also sufficient experience in this area. Sometimes there was a layout for Bitrix.
+I have a lot of experience with WordPress/WooCommerce. I have a lot of experience with React, Node.js, MongoDB, Express and also Vue.js and Nuxt.js + Firebase. 
+Also, I have created layouts for almost every project using Figma, Pixso. My goal is to develop innovative and easy-to-use web applications that offer maximum performance through individual solutions.
 
 
 
