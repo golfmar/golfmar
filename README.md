@@ -30,6 +30,8 @@ Also, I have created layouts for almost every project using Figma, Pixso. My goa
  
 ### Frontend
 [![](react.svg)](https://react.dev) 
+[![](Typescript.svg)](https://www.typescriptlang.org)
+
 <span>
 <img class="icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40" />
 </span>
