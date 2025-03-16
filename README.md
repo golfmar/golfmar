@@ -32,6 +32,7 @@ Also, I have created layouts for almost every project using Figma, Pixso. My goa
 
 [![](react.svg)](https://react.dev) 
 [![](typescript.svg)](https://www.typescriptlang.org)
+[![](next.svg)](https://nextjs.org/)
 <span>
 <img class="icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40" />
 </span>
@@ -55,7 +56,7 @@ Also, I have created layouts for almost every project using Figma, Pixso. My goa
 <img class="icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" />
 </span>
 [![](pug.svg)](https://pugjs.org)
-
+[![](tailwind.svg)](https://tailwindcss.com)
 ### Backend
 
 [![](node.svg)](https://nodejs.org/)
