@@ -11,8 +11,12 @@
 
 
 ## About this account
-I have a lot of experience with WordPress/WooCommerce. I have a lot of experience with React, Node.js, MongoDB, Express and also Vue.js and Nuxt.js + Firebase. 
-Also, I have created layouts for almost every project using Figma, Pixso. My goal is to develop innovative and easy-to-use web applications that offer maximum performance through individual solutions.
+I have experience with React.js, Next.js, TypeScript, Express, Node.js, MongoDB, Vue.js, Nuxt.js, Firebase, WordPress/WooCommerce. 
+I have also created layouts using Figma and Pixs. My goal is to develop innovative and easy to use web applications that maximise productivity through customised solutions.
+
+Ich habe Erfahrung mit React.js, Next.js, TypeScript, Express, Node.js, MongoDB, Vue.js, Nuxt.js, Firebase, WordPress/WooCommerce. 
+Ich habe auch Layouts mit Figma und Pixs erstellt. 
+Mein Ziel ist es, innovative und einfach zu bedienende Webanwendungen zu entwickeln, die die Leistung durch maßgeschneiderte Lösungen maximieren.
 
 
 
