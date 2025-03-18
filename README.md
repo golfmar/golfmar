@@ -1,13 +1,14 @@
 - 👋 Hi, I’m Victor
-- I am a frontend developer with Wordpress skills
-- I currently live in NRW , Germany
+<p align="left" > 
+🌎 Check my portfolio https://yushinbox.rf.gd/porto
+</p>
+- I am a full-stack developer.
+- I currently live in NRW , Germany.
 - How to reach me -- yushinbox@gmail.com
 - I speak German (B2), Russian, English, 
 - I have a higher education in the specialty "System Engineer"
 
-<p align="left" > 
-🌎 Check my portfolio https://yushinbox.rf.gd/porto
-</p>
+
 
 
 ## About this account
