@@ -64,22 +64,25 @@ Mein Ziel ist es, innovative und einfach zu bedienende Webanwendungen zu entwick
 [![](tailwind.svg)](https://tailwindcss.com)
 
 
+
 ### Backend
-<span class="icon" >
-[![Node.js](node.svg)](https://nodejs.org/)
-</span>
-<span class="icon" >
-[![Express](express.svg)](https://expressjs.com)
-</span>
-<span class="icon" >
-[![Vercel](vercel.svg)](https://vercel.com)
-</span>
-<span class="icon" >
-[![Prisma](prisma.svg)](https://prisma.com)
-</span>
-<span class="icon" >
-[![Socket.io](socket.svg)](https://socket.io)
-</span>
+
+<a href="https://nodejs.org/">
+  <img src="node.svg" alt="Node.js" width="40" height="40">
+</a>
+<a href="https://expressjs.com">
+  <img src="express.svg" alt="Express" width="40" height="40">
+</a>
+<a href="https://vercel.com">
+  <img src="vercel.svg" alt="Vercel" width="40" height="40">
+</a>
+<a href="https://prisma.com">
+  <img src="prisma.svg" alt="Prisma" width="40" height="40">
+</a>
+<a href="https://socket.io">
+  <img src="socket.svg" alt="Socket.io" width="40" height="40">
+</a>
+
 
 
 ### CMS
