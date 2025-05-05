@@ -66,22 +66,22 @@ Mein Ziel ist es, innovative und einfach zu bedienende Webanwendungen zu entwick
 
 
 ### Backend
-<a href="https://nodejs.org/" style="text-decoration: none;  margin-right: 10px;">ннн</a>
-<a href="https://nodejs.org/" style="text-decoration: none;  margin-right: 10px;">
+
+<span>
   <img src="node.svg" alt="Node.js" width="40" height="40">
-</a>
-<a href="https://expressjs.com" style="text-decoration: none;  margin-right: 10px;">
+</span>
+<span>
   <img src="express.svg" alt="Express" width="40" height="40">
-</a>
-<a href="https://vercel.com" style="text-decoration: none;  margin-right: 10px;">
+</span>
+<span>
   <img src="vercel.svg" alt="Vercel" width="40" height="40">
-</a>
-<a href="https://prisma.com" style="text-decoration: none;  margin-right: 10px;">
+</span>
+<span>
   <img src="prisma.svg" alt="Prisma" width="40" height="40">
-</a>
-<a href="https://socket.io" style="text-decoration: none;  margin-right: 10px;">
+</span>
+<span>
   <img src="socket.svg" alt="Socket.io" width="40" height="40">
-</a>
+</span>
 
 
 
