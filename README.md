@@ -65,28 +65,20 @@ Mein Ziel ist es, innovative und einfach zu bedienende Webanwendungen zu entwick
 
 
 ### Backend
-
+<span class="icon" >
 [![Node.js](node.svg)](https://nodejs.org/)
+</span>
+<span class="icon" >
 [![Express](express.svg)](https://expressjs.com)
+</span>
+<span class="icon" >
 [![Vercel](vercel.svg)](https://vercel.com)
+</span>
+<span class="icon" >
 [![Prisma](prisma.svg)](https://prisma.com)
+</span>
+<span class="icon" >
 [![Socket.io](socket.svg)](https://socket.io)
-
-
-<span class="icon" >
-[![](node.svg)](https://nodejs.org/)
-</span>
-<span class="icon" >
-[![](express.svg)](https://expressjs.com)
-</span>
-<span class="icon" >
-[![](vercel.svg)](https://vercel.com) 
-</span>
-<span class="icon" >
-[![](prisma.svg)](https://prisma.com) 
-</span>
-<span class="icon" >
-[![](socket.svg)](https://socket.io)
 </span>
 
 
