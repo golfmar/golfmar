@@ -97,12 +97,11 @@ Mein Ziel ist es, innovative und einfach zu bedienende Webanwendungen zu entwick
 
 ### Datenbank
 <span>
-<img class="icon" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
+<img class="icon" src="firebase.svg" alt="firebase" width="40" height="40" />
 </span>
 <span>
-<img class="icon" src="mongoDB.svg" alt="firebase" width="40" height="40" />
+<img class="icon" src="mongoDB.svg" alt="firebase" width="100" height="40" />
 </span>
-
 <span>
 <img class="icon" src="postgresql.svg" alt="firebase" width="40" height="40" />
 </span>
