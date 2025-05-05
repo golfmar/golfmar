@@ -71,7 +71,8 @@ Mein Ziel ist es, innovative und einfach zu bedienende Webanwendungen zu entwick
 <span>
 
 <span>
-[![](vercel.svg)](https://vercel.com) 
+ [![](vercel.svg)](https://vercel.com) 
+
 </span>
 <span>
 [![](prisma.svg)](https://prisma.com) 
