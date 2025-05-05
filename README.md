@@ -1,142 +1,77 @@
-
-<p align="left" > 
-🌎 Check my portfolio https://yushinbox.rf.gd/porto
+<p align="center">
+  <a href="https://yushinbox.rf.gd/porto" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+  </a>
 </p>
-- 👋 Hi, I’m Victor
-- I am a full-stack developer
-- I currently live in NRW , Germany
-- How to reach me -- yushinbox@gmail.com
-- I speak German (B2), Russian, English
-- I have a higher education in the specialty "System Engineer"
 
+<h1 align="center">Hi 👋, I'm Victor</h1>
+<h3 align="center">Full-stack developer from Germany</h3>
 
+## 👨‍💻 About Me
 
+- 🌍 Based in NRW, Germany
+- 📫 How to reach me: **yushinbox@gmail.com**
+- 🗣️ Languages: German (B2), Russian, English
+- 🎓 Education: Higher education in "System Engineering"
+- 🎯 Goal: Develop innovative and user-friendly web applications
 
-## About this account
-I have experience with React.js, Next.js, TypeScript, Express, Node.js, MongoDB, Vue.js, Nuxt.js, Firebase, WordPress/WooCommerce. 
-I have also created layouts using Figma and Pixs. My goal is to develop innovative and easy to use web applications that maximise productivity through customised solutions.
+## 🛠 Tech Stack
 
-Ich habe Erfahrung mit React.js, Next.js, TypeScript, Express, Node.js, MongoDB, Vue.js, Nuxt.js, Firebase, WordPress/WooCommerce. 
-Ich habe auch Layouts mit Figma und Pixs erstellt. 
-Mein Ziel ist es, innovative und einfach zu bedienende Webanwendungen zu entwickeln, die die Leistung durch maßgeschneiderte Lösungen maximieren.
-
-
-
-## 🔗 Links
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit)
-[![facebook](https://img.shields.io/badge/facebook-0A66C2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/viktor.yushin.77)
-[![instagram](https://img.shields.io/badge/instagram-FFD700?style=for-the-badge&logo=instagram&logoColor=FF00FF)](https://www.instagram.com/yushindance/)
-
-
-## 🛠 Skills
-
-
-<p align="left" > 
- 
 ### Frontend
-
-[![](react.svg)](https://react.dev) 
-[![](typescript.svg)](https://www.typescriptlang.org)
-[![](next.svg)](https://nextjs.org/)
-<span>
-<img class="icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40" />
-</span>
-<span>
-<img class="icon" src="https://github.com/nuxt.png?size=40" alt="Nuxt" width="40" height="40" />
-</span>
-<span>
-<span>
-<img class="icon" src="https://pinia.vuejs.org/logo.svg" alt="pinia" width="40" height="40" />
-</span>
-<span>
-<img class="icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" />
-</span>
-<span>
-<img class="icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
-</span>
-<span>
-<img class="icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
-</span>
-<span>
-<img class="icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" />
-</span>
-[![](pug.svg)](https://pugjs.org)
-[![](tailwind.svg)](https://tailwindcss.com)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Backend
-<span class="icon" >
-[![](node.svg)](https://nodejs.org/)
-</span>
-<span class="icon" >
-[![](express.svg)](https://expressjs.com)
-</span>
-<span class="icon" >
-[![](vercel.svg)](https://vercel.com) 
-</span>
-<span class="icon" >
-[![](prisma.svg)](https://prisma.com) 
-</span>
-<span class="icon" >
-[![](socket.svg)](https://socket.io)
-</span>
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 
+### CMS & E-commerce
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
 
-### CMS
-<span>
-<img class="icon" src="https://github.com/WordPress.png?size=40" alt="WordPress" width="40" height="40" />
-</span>
-<span>
-<img class="icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/WooCommerce_logo.svg/250px-WooCommerce_logo.svg.png" alt="WooCommerce" width="40" height="40" />
-</span>
+### Databases
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
+### Design & Tools
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
+![Pixso](https://img.shields.io/badge/Pixso-000000?style=for-the-badge&logo=pixso&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 
-### Datenbank
-<img class="icon" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
-<span>
-[![](mongoDB.svg)](https://www.mongodb.com) 
-</span>
-<span>
-[![](postgresql.svg)](https://postgresql.com) 
-</span>
+### Build Tools
+![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
+![Gulp](https://img.shields.io/badge/Gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white)
 
-### Design
-[![](mui.svg)](https://mui.com)
-<span>
-<img class="icon" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
-</span>
-<span>
-<img class="icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40" />
-</span>
-<span>
-<img class="icon" src="https://cms.pixso.net/images/px-logo.png" alt="pixso" width="120" height="40" />
-</span>
+### Version Control & Deployment
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
+## 🌐 Connect With Me
 
-### Project assembly systems
-<span>
-<img class="icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40" />
-</span>
-<span>
-<img class="icon" src="https://vitejs.dev/logo.svg" alt="vite" width="40" height="40" />
-</span>
-<span>
-<img class="icon" src="https://webpack.js.org/site-logo.c0e60df418e04f58.svg" alt="webpack" width="140" height="40" />
-</span>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/viktor.yushin.77)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yushindance/)
 
-### Various
-<span>
-<img class="icon" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-</span>
-<span>
-<img class="icon" src="https://res-s.cloudinary.com/prod/image/upload/d_console:cld_new_default_cloud_logo_regular_padding.svg/w_32,h_32,c_fill,dpr_2.0/console/customer-logos/2da273ec717652775cfe9f6f9020fbb9" alt="cloudinary" width="40" height="40" />
-</span>
+## 📌 Currently Learning/Improving
 
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-
-
-
-
-
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yushinbox&show_icons=true&locale=en&layout=compact" alt="yushinbox" />
 </p>
