@@ -67,17 +67,17 @@ Mein Ziel ist es, innovative und einfach zu bedienende Webanwendungen zu entwick
 ### Backend
 <span>
 [![](node.svg)](https://nodejs.org/)
-</span>
-<span>
+
+
 [![](express.svg)](https://expressjs.com)
-</span>
-<span>
+
+
 [![](vercel.svg)](https://vercel.com) 
-</span>
-<span>
+
+
 [![](prisma.svg)](https://prisma.com) 
-</span>
-<span>
+
+
 [![](socket.svg)](https://socket.io)
 </span>
 
