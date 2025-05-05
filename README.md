@@ -63,14 +63,14 @@ Mein Ziel ist es, innovative und einfach zu bedienende Webanwendungen zu entwick
 [![](pug.svg)](https://pugjs.org)
 [![](tailwind.svg)](https://tailwindcss.com)
 
+
 ### Backend
 
-
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
-
+[![Node.js](node.svg)](https://nodejs.org/)
+[![Express](express.svg)](https://expressjs.com)
+[![Vercel](vercel.svg)](https://vercel.com)
+[![Prisma](prisma.svg)](https://prisma.com)
+[![Socket.io](socket.svg)](https://socket.io)
 
 
 <span class="icon" >
