@@ -69,17 +69,34 @@ Mein Ziel ist es, innovative und einfach zu bedienende Webanwendungen zu entwick
 [![](node.svg)](https://nodejs.org/)
 [![](express.svg)](https://expressjs.com) 
 <span>
-<img class="icon" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
-</span>
+
+<span>
 [![](vercel.svg)](https://vercel.com) 
-[![](mongoDB.svg)](https://www.mongodb.com) 
+</span>
+<span>
+[![](prisma.svg)](https://prisma.com) 
+</span>
+
+[![](socket.svg)](https://socket.io)
+
+### CMS
 <span>
 <img class="icon" src="https://github.com/WordPress.png?size=40" alt="WordPress" width="40" height="40" />
 </span>
 <span>
 <img class="icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/WooCommerce_logo.svg/250px-WooCommerce_logo.svg.png" alt="WooCommerce" width="40" height="40" />
 </span>
-[![](socket.svg)](https://socket.io)
+
+
+### Datenbank
+<img class="icon" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
+<span>
+[![](mongoDB.svg)](https://www.mongodb.com) 
+</span>
+<span>
+[![](postgresql.svg)](https://postgresql.com) 
+</span>
+
 ### Design
 [![](mui.svg)](https://mui.com)
 <span>
