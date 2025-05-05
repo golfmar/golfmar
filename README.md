@@ -65,19 +65,19 @@ Mein Ziel ist es, innovative und einfach zu bedienende Webanwendungen zu entwick
 [![](tailwind.svg)](https://tailwindcss.com)
 
 ### Backend
-<span>
+<span class="icon" >
 [![](node.svg)](https://nodejs.org/)
-
-
+</span>
+<span class="icon" >
 [![](express.svg)](https://expressjs.com)
-
-
+</span>
+<span class="icon" >
 [![](vercel.svg)](https://vercel.com) 
-
-
+</span>
+<span class="icon" >
 [![](prisma.svg)](https://prisma.com) 
-
-
+</span>
+<span class="icon" >
 [![](socket.svg)](https://socket.io)
 </span>
 
