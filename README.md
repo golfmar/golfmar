@@ -105,7 +105,9 @@ Mein Ziel ist es, innovative und einfach zu bedienende Webanwendungen zu entwick
 <span>
 <img class="icon" src="postgresql.svg" alt="firebase" width="40" height="40" />
 </span>
-
+<span>
+<img class="icon" src="neon.svg" alt="firebase" width="40" height="40" />
+</span>
 
 ### Design
 [![](mui.svg)](https://mui.com)
